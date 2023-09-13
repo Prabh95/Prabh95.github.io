@@ -1,5 +1,5 @@
 ---
-title: "QuartoWebsitePersonal"
+title: "This is Prabhjit Thind's website"
 ---
 
 This is a Quarto website.
