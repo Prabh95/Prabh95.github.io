@@ -1,2 +1,2 @@
 # Prabh95.github.io
-Python 521
+This is Prabhjit Thind's website 12th sept
